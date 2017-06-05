@@ -2,7 +2,7 @@
 
 #a = 10 * 100
 #b = 15 * 25
-#c = a / b
+#c = int(a / b)
 #print (c)
 #d = a - b * 2
 #print (d)
